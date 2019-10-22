@@ -1,5 +1,9 @@
 {
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dance2die/gatsby-theme-event.git"
+  },
   "workspaces": [
     "gatsby-theme-events",
     "site"
